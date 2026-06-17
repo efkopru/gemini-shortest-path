@@ -1,0 +1,14 @@
+# Temporary Word files
+~$*.doc
+~$*.docx
+
+# R temporary files
+.Rhistory
+.RData
+
+# Pandoc/LaTeX temp
+*.tmp
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
